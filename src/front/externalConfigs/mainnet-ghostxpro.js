@@ -90,3 +90,5 @@ window.buildOptions = {
     sell: 'btc',
   },
 }
+
+window.defaultWindowTitle = 'GhostX.pro'
