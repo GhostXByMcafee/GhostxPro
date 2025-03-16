@@ -2,7 +2,7 @@
 
 # build
 
-npm run build:mainnet https://swaponline.github.io/
+npm run build:mainnet https://ghostx.pro/
 
 # update repo or clone
 
